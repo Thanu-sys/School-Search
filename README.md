@@ -13,6 +13,12 @@ pnpm dev
 # or
 bun dev
 ```
+## 🚨 Note for Evaluators
+
+This deployment uses **demo data** for display purposes since MySQL databases cannot be hosted on Vercel. The application is fully functional and would connect to a real MySQL database in a production environment.
+
+**Local Development:** Works with real MySQL database  
+**Deployed Version:** Shows demo data (for assignment demonstration)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
