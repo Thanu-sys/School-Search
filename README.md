@@ -20,7 +20,7 @@ This deployment uses **demo data** for display purposes since MySQL databases ca
 **Local Development:** Works with real MySQL database  
 **Deployed Version:** Shows demo data (for assignment demonstration)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://school-search-beige.vercel.app/showSchools) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
